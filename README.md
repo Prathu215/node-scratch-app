@@ -1,6 +1,9 @@
 # node-scratch-app
 
 How to create this app?  
+- create an empty folder.
+- run `npm init`
+
 **source**
 https://www.youtube.com/watch?v=blQ60skPzl0
   
