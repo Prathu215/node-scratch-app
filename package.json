@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-node",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API for Todo-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Prathyusha V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
